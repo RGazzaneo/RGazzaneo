@@ -6,7 +6,7 @@
 - 😄 I’m Renata.
 - 🔭 Bachelor degree in Electrical Engineering.
 - 🌱 Currently working on my Master degree on Data Science at Hertie School!
-- ⚡ About me: I love mt pets, enjoy a good hiking and my favoties hobbies are drawing and knitting.
+- ⚡ About me: I love my pets, enjoy a good hiking and my favorites hobbies are drawing and knitting.
 - 💖 Passionate about Public Policy.
 - 🚀 I'm always excited to collaborate and learn.
   
