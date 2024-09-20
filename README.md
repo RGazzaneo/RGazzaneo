@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bacasime+Antique&weight=600&size=30&pause=1&color=512D77&center=false&vCenter=true&width=1000&lines=Welcome!;I'm+a+Data+Science+student;Feel+free+to+explore,;and+let's+connect!)](https://git.io/typing-svg)
-<img width=50% src="https://drive.google.com/file/d/1c4GFQa09CEjErILIdtI-U6EXAH1iMAyi/view"/>
+<iframe src="https://drive.google.com/file/d/1c4GFQa09CEjErILIdtI-U6EXAH1iMAyi/preview" width="640" height="480" allow="autoplay"></iframe>
   
 ## Hi there 👋
 
