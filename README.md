@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bacasime+Antique&weight=600&size=30&pause=1&color=512D77&center=false&vCenter=true&width=1000&lines=Welcome!;I'm+a+Data+Science+student;Feel+free+to+explore,;and+let's+connect!)](https://git.io/typing-svg)
-<img src="image/image.png" alt="image" width="100"/>
+<img src="image/image.png" alt="image" width="200"/>
 
   ## Hi there 👋
 
