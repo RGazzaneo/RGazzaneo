@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bacasime+Antique&weight=600&size=30&pause=1&color=512D77&center=false&vCenter=true&width=1000&lines=Welcome!;I'm+a+Data+Science+student;Feel+free+to+explore,;and+let's+connect!)](https://git.io/typing-svg)
-<img width=50% src="https://media.licdn.com/dms/image/v2/C4E16AQFgoXwmvUTg7g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1586290054659?e=1731542400&v=beta&t=FosbQ0QhcJm-t-9XeNadqcwGBsgQx69Vx_HQN1u4QEE"/>
+<img width=50% src="https://drive.google.com/file/d/1c4GFQa09CEjErILIdtI-U6EXAH1iMAyi/view"/>
   
 ## Hi there 👋
 
